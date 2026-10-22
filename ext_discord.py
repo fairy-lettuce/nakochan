@@ -16,7 +16,7 @@ import datetime
 import re
 import alkana
 
-COMMAND_PREFIX = ">"
+COMMAND_PREFIX = "n."
 TOKEN = os.environ['VOICEVOX_TOKEN']
 
 voiceChannel = None #: Optional[VoiceChannel]
